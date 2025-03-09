@@ -1,4 +1,4 @@
-Got it! Here’s a **simplified README.md** file for your **Food Delivery Web App** with essential details:  
+
 
 ---
 
